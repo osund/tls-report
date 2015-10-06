@@ -9,13 +9,28 @@
         "org": "LiU",
         "type": "Universitet"
     },
+    "www.lith.liu.se": {
+        "domain": "www.lith.liu.se",
+        "org": "Tekniska fakulteten",
+        "type": "Universitet"
+    },
+    "www.hu.liu.se": {
+        "domain": "www.hu.liu.se",
+        "org": "Medicinska fakulteten",
+        "type": "Universitet"
+    },
     "www.ibl.liu.se": {
-        "domain": "www.ida.liu.se",
+        "domain": "www.ibl.liu.se",
         "org": "IBL",
         "type": "Institution"
     },
     "www.ida.liu.se": {
         "domain": "www.ida.liu.se",
+        "org": "IDA",
+        "type": "Institution"
+    },
+    "gitlab.ida.liu.se": {
+        "domain": "gitlab.ida.liu.se",
         "org": "IDA",
         "type": "Institution"
     },
@@ -28,11 +43,6 @@
         "domain": "www.ifm.liu.se",
         "org": "IFM",
         "type": "Institution"
-    },
-    "www.hu.liu.se": {
-        "domain": "www.hu.liu.se",
-        "org": "Medicinska fakulteten",
-        "type": "Universitet"
     },
     "www.mai.liu.se": {
         "domain": "www.mai.liu.se",
@@ -70,11 +80,11 @@
         "type": "Institution"
     },
     "www.tema.liu.se": {
-        "domain": "www.imh.liu.se",
+        "domain": "www.tema.liu.se",
         "org": "TEMA",
         "type": "Institution"
     },
-     "login.liu.se": {
+    "login.liu.se": {
         "domain": "login.liu.se",
         "org": "LiU",
         "type": "Universitet"
@@ -93,6 +103,21 @@
         "domain": "www.i-portalen.se",
         "org": "I",
         "type": "Sektion"
+    },
+    "lithekod.se": {
+        "domain": "lithekod.se",
+        "org": "LiTHe kod",
+        "type": "F\u00f6rening"
+    },
+    "git.lithekod.se": {
+        "domain": "git.lithekod.se",
+        "org": "LiTHe kod",
+        "type": "F\u00f6rening"
+    },
+    "lithehack.se": {
+        "domain": "lithehack.se",
+        "org": "LiTHehack",
+        "type": "F\u00f6rening"
     },
     "admin.lysator.liu.se": {
         "domain": "admin.lysator.liu.se",
@@ -149,7 +174,7 @@
         "org": "Lysator",
         "type": "F\u00f6rening"
     },
-   "webmail.lysator.liu.se": {
+    "webmail.lysator.liu.se": {
         "domain": "webmail.lysator.liu.se",
         "org": "Lysator",
         "type": "F\u00f6rening"
