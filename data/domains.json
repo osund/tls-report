@@ -9,12 +9,72 @@
         "org": "LiU",
         "type": "Universitet"
     },
+    "www.ibl.liu.se": {
+        "domain": "www.ida.liu.se",
+        "org": "IBL",
+        "type": "Institution"
+    },
     "www.ida.liu.se": {
         "domain": "www.ida.liu.se",
         "org": "IDA",
         "type": "Institution"
     },
-    "login.liu.se": {
+    "www.iei.liu.se": {
+        "domain": "www.iei.liu.se",
+        "org": "IEI",
+        "type": "Institution"
+    },
+    "www.ifm.liu.se": {
+        "domain": "www.ifm.liu.se",
+        "org": "IFM",
+        "type": "Institution"
+    },
+    "www.hu.liu.se": {
+        "domain": "www.hu.liu.se",
+        "org": "Medicinska fakulteten",
+        "type": "Universitet"
+    },
+    "www.mai.liu.se": {
+        "domain": "www.mai.liu.se",
+        "org": "MAI",
+        "type": "Institution"
+    },
+    "www.imh.liu.se": {
+        "domain": "www.imh.liu.se",
+        "org": "IMH",
+        "type": "Institution"
+    },
+    "www.imt.liu.se": {
+        "domain": "www.imt.liu.se",
+        "org": "IMT",
+        "type": "Institution"
+    },
+    "www.isv.liu.se": {
+        "domain": "www.isv.liu.se",
+        "org": "ISV",
+        "type": "Institution"
+    },
+    "www.isak.liu.se": {
+        "domain": "www.isak.liu.se",
+        "org": "ISAK",
+        "type": "Institution"
+    },
+    "www.isy.liu.se": {
+        "domain": "www.isy.liu.se",
+        "org": "ISY",
+        "type": "Institution"
+    },
+    "www.itn.liu.se": {
+        "domain": "www.itn.liu.se",
+        "org": "ITN",
+        "type": "Institution"
+    },
+    "www.tema.liu.se": {
+        "domain": "www.imh.liu.se",
+        "org": "TEMA",
+        "type": "Institution"
+    },
+     "login.liu.se": {
         "domain": "login.liu.se",
         "org": "LiU",
         "type": "Universitet"

@@ -2,7 +2,7 @@ VERSION=	$(shell cat $(VERSION_FILE))
 VERSION_FILE=	version.txt
 
 SOURCE=		data/domains.json
-DESTINATION=	webusaito.kirei.se:/d/www/www.kirei.se/tls
+DESTINATION=    osksu635@web.cyd.liu.se:/srv/d-sektionen.se/tls
 
 LIST=		domains.txt
 SUMMARY=	summary.json
