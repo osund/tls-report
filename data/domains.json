@@ -9,23 +9,23 @@
         "org": "LiU",
         "type": "Universitet"
     },
-    "www.lith.liu.se": {
-        "domain": "www.lith.liu.se",
+    "lith.liu.se": {
+        "domain": "lith.liu.se",
         "org": "Tekniska fakulteten",
         "type": "Universitet"
     },
-    "www.hu.liu.se": {
-        "domain": "www.hu.liu.se",
+    "hu.liu.se": {
+        "domain": "hu.liu.se",
         "org": "Medicinska fakulteten",
         "type": "Universitet"
     },
-    "www.ibl.liu.se": {
-        "domain": "www.ibl.liu.se",
+    "ibl.liu.se": {
+        "domain": "ibl.liu.se",
         "org": "IBL",
         "type": "Institution"
     },
-    "www.ida.liu.se": {
-        "domain": "www.ida.liu.se",
+    "ida.liu.se": {
+        "domain": "ida.liu.se",
         "org": "IDA",
         "type": "Institution"
     },
@@ -34,53 +34,53 @@
         "org": "IDA",
         "type": "Institution"
     },
-    "www.iei.liu.se": {
-        "domain": "www.iei.liu.se",
+    "iei.liu.se": {
+        "domain": "iei.liu.se",
         "org": "IEI",
         "type": "Institution"
     },
-    "www.ifm.liu.se": {
-        "domain": "www.ifm.liu.se",
+    "ifm.liu.se": {
+        "domain": "ifm.liu.se",
         "org": "IFM",
         "type": "Institution"
     },
-    "www.mai.liu.se": {
-        "domain": "www.mai.liu.se",
+    "mai.liu.se": {
+        "domain": "mai.liu.se",
         "org": "MAI",
         "type": "Institution"
     },
-    "www.imh.liu.se": {
-        "domain": "www.imh.liu.se",
+    "imh.liu.se": {
+        "domain": "imh.liu.se",
         "org": "IMH",
         "type": "Institution"
     },
-    "www.imt.liu.se": {
-        "domain": "www.imt.liu.se",
+    "imt.liu.se": {
+        "domain": "imt.liu.se",
         "org": "IMT",
         "type": "Institution"
     },
-    "www.isv.liu.se": {
-        "domain": "www.isv.liu.se",
+    "isv.liu.se": {
+        "domain": "isv.liu.se",
         "org": "ISV",
         "type": "Institution"
     },
-    "www.isak.liu.se": {
-        "domain": "www.isak.liu.se",
+    "isak.liu.se": {
+        "domain": "isak.liu.se",
         "org": "ISAK",
         "type": "Institution"
     },
-    "www.isy.liu.se": {
-        "domain": "www.isy.liu.se",
+    "isy.liu.se": {
+        "domain": "isy.liu.se",
         "org": "ISY",
         "type": "Institution"
     },
-    "www.itn.liu.se": {
-        "domain": "www.itn.liu.se",
+    "itn.liu.se": {
+        "domain": "itn.liu.se",
         "org": "ITN",
         "type": "Institution"
     },
-    "www.tema.liu.se": {
-        "domain": "www.tema.liu.se",
+    "tema.liu.se": {
+        "domain": "tema.liu.se",
         "org": "TEMA",
         "type": "Institution"
     },
